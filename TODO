@@ -1,3 +1,5 @@
+NOTES:
+    1.) use percents for number values in CSS elements to keep them reactive
 Meets Expectations:
     Created Folder Structure:
         ☐ Project contains a style sheet inside of a css folder
@@ -11,6 +13,7 @@ Meets Expectations:
         ☐ Project uses FlexBox for layout
             ☐ Watch or take a FlexBox tutorial outside of treehouse
                 ☐ Source used:_____________________________________
+                ☐ Add source to OneNote
         ☐ Matches layout of mockups. General spacing and arrangement of the elements matches the design mockups for:
             ☐ Mobile
             ☐ Tablet
@@ -40,4 +43,12 @@ Validate Code:
     ☐ HTML Validation
         ☐ 
     ☐ CSS Validation
-    
+Finalization:
+    ☐ Submit for review on Slack
+    ☐ Submit for grade
+Apply what you have learned to past projects:
+    ☐ FEWB-Project-1
+        ☐ index.html
+        ☐ hobbies.html
+        ☐ experience.html
+        ☐ styles.css
