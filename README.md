@@ -9,3 +9,4 @@ the pixel sizes to make sure your page is reactive enough
 3.) open your page in different web browsers. you currently have edge, chrome and firefox
 4.) check for duplication of css stuff
 5.) open the browser's inspect and change the viewport size to test reactivity
+5.1) change the dimentions from responsive to different interfaces and devices to check for responsivenes
