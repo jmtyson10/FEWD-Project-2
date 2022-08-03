@@ -13,8 +13,8 @@ Reading List:
     ✔ https://css-tricks.com/position-sticky-2/ @started(22-08-03 09:15) @done(22-08-03 09:17) @lasted(2m17s)
     ✔ https://www.kevinpowell.co/article/positition-fixed-vs-sticky/ @started(22-08-03 10:03) @done(22-08-03 10:09) @lasted(6m40s)
     ✔ https://mikeselander.com/the-gotchas-of-position-sticky/ @done(22-08-03 10:15)
-    ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/float
-    ☐ https://css-tricks.com/all-about-floats/
+    ✔ https://developer.mozilla.org/en-US/docs/Web/CSS/float @done(22-08-03 17:07)
+    ✔ https://css-tricks.com/all-about-floats/ @done(22-08-03 17:52)
     ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/clear
     ☐ https://css-tricks.com/almanac/properties/c/clear/
     ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
