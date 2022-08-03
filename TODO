@@ -3,13 +3,14 @@ Reading List:
     ✔ https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/ @started(22-08-02 18:42) @done(22-08-02 18:52) @lasted(10m48s)
     ✔ https://www.w3schools.com/html/html_blocks.asp @done(22-08-02 18:59)
     ✔ https://developer.mozilla.org/en-US/docs/Web/CSS/display @done(22-08-02 19:24)
-    ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/position
-    ☐ https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/
-    ☐ https://www.w3schools.com/css/css_positioning.asp
-    ☐ https://www.freecodecamp.org/news/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3/
-    ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index
-    ☐ https://mastery.games/post/position-sticky/
-    ☐ https://css-tricks.com/position-sticky-2/
+    ✔ https://developer.mozilla.org/en-US/docs/Web/CSS/position @started(22-08-03 07:30) @done(22-08-03 07:46) @lasted(16m38s)
+    ✔ https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/ @started(22-08-03 07:46) @done(22-08-03 07:56) @lasted(10m20s)
+    ✔ https://www.w3schools.com/css/css_positioning.asp @started(22-08-03 07:57) @done(22-08-03 08:01) @lasted(4m4s)
+    ✔ https://www.freecodecamp.org/news/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3/ @started(22-08-03 08:30) @done(22-08-03 08:40) @lasted(10m40s)
+    ✔ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index @started(22-08-03 08:40) @done(22-08-03 08:42) @lasted(2m54s)
+    ✔ https://mastery.games/post/position-sticky/ @started(22-08-03 08:50) @done(22-08-03 09:06) @lasted(16m4s)
+        ☐ This has a flexbot tutorial
+    ✔ https://css-tricks.com/position-sticky-2/ @started(22-08-03 09:15) @done(22-08-03 09:17) @lasted(2m17s)
     ☐ https://www.kevinpowell.co/article/positition-fixed-vs-sticky/
     ☐ https://mikeselander.com/the-gotchas-of-position-sticky/
     ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/float
