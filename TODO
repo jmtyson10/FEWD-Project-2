@@ -15,12 +15,12 @@ Reading List:
     ✔ https://mikeselander.com/the-gotchas-of-position-sticky/ @done(22-08-03 10:15)
     ✔ https://developer.mozilla.org/en-US/docs/Web/CSS/float @done(22-08-03 17:07)
     ✔ https://css-tricks.com/all-about-floats/ @done(22-08-03 17:52)
-    ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/clear
-    ☐ https://css-tricks.com/almanac/properties/c/clear/
-    ☐ https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
-    ☐ https://css-tricks.com/a-complete-guide-to-css-media-queries/
-    ☐ https://www.sitepoint.com/css-printer-friendly-pages/
-    ☐ https://css-tricks.com/logic-in-css-media-queries/
+    ✔ https://developer.mozilla.org/en-US/docs/Web/CSS/clear @started(22-08-06 20:54) @done(22-08-06 20:58) @lasted(4m53s)
+    ✔ https://css-tricks.com/almanac/properties/c/clear/ @started(22-08-06 20:58) @done(22-08-06 21:00) @lasted(2m51s)
+    ✔ https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries @started(22-08-06 21:01) @done(22-08-06 21:25) @lasted(24m45s)
+    ✔ https://css-tricks.com/a-complete-guide-to-css-media-queries/ @started(22-08-06 21:25) @done(22-08-06 21:35) @lasted(10m55s)
+    ✔ https://www.sitepoint.com/css-printer-friendly-pages/ @started(22-08-06 21:35) @done(22-08-06 21:44) @lasted(9m48s)
+    ✔ https://css-tricks.com/logic-in-css-media-queries/ @started(22-08-06 21:44) @done(22-08-06 21:48) @lasted(4m19s)
 
 Meets Expectations:
     Created Folder Structure:
