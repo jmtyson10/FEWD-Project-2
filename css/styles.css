@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+/* ================================= 
+  Base Styles
+==================================== */
+.card {
+  display: flex;
+  flex-direction: column;
+}
+/* ================================= 
+  Media Queries
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 1024px) {
+}
+==================================== */
