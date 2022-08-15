@@ -4,19 +4,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>My First Responsive Website</title>
     <link rel="stylesheet" href="/css/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
   </head>
 
   <body>
-    <header>
-      <h1>Jordan</h1>
-      <nav>
-        <ul>
-          <li>Home</li>
-          <li>Portfolio</li>
-          <li>Contact</li>
-        </ul>
-      </nav>
+    <header class="main-header">
+      <h1 class="name">Jordan</h1>
+      <ul class="main-nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
     </header>
+
+    <img
+      src="/images/responsive-layout-profile.png"
+      alt="A stock picture of me! The developer!"
+    />
 
     <p>
       Hello! I’m an aspiring GIS developer who is very intrigued in responsive
@@ -24,83 +33,78 @@
       techdegree at Treehouse and am excited to complete it and put all my newly
       acquired skills to use!
     </p>
-    <img
-      src="/images/responsive-layout-profile.png"
-      alt="A stock picture of me! The developer!"
-    />
 
     <main>
-      <h2>Portfolio</h2>
+      <h2 id="portfolio">Portfolio</h2>
 
-      <section class="card">
-        <article>
+      <section class="cards">
+        <article class="card">
           <img
-            class="card_image"
             src="/images/portfolio-1.png"
             alt="A page display for marketing."
           />
           <h3>Marketing Page</h3>
-          <p>
+          <p class="description">
             This project shows the front page of a marketing website meant for a
             specific business I’m interested in.
           </p>
         </article>
 
-        <article>
+        <article class="card">
           <img
             src="/images/portfolio-2.png"
             alt="A page display for searching."
           />
           <h3>Search Page</h3>
-          <p>
+          <p class="description">
             This project searches through a specific database to find
             information that the user is trying to look up.
           </p>
         </article>
 
-        <article>
+        <article class="card">
           <img
             src="/images/portfolio-3.png"
             alt="A page display of traveling time comparison."
           />
           <h3>Travel App</h3>
-          <p>
+          <p class="description">
             This project compares travel times based on different transportation
             methods and tells you the best one.
           </p>
         </article>
 
-        <article>
+        <article class="card">
           <img
             src="/images/portfolio-4.png"
             alt="A page display of my favorite spots on a map."
           />
           <h3>Map of Vaforite Spots</h3>
-          <p>
+          <p class="description">
             This project uses mapping APIs to plot points for my favorite spots
             in the city for a do-it-yourself walking tour.
           </p>
         </article>
 
-        <article>
+        <article class="card">
           <img
             src="/images/portfolio-5.png"
             alt="A page display of a photo gallery."
           />
           <h3>Photo Gallery</h3>
-          <p>
+          <p class="description">
             This project shows pictures from a recent trip to the viewer and
             allows them to easily navigate through photos.
           </p>
         </article>
 
-        <article>
+        <article class="card">
           <img
             src="/images/portfolio-6.png"
             alt="A page display of a calculator app."
           />
           <h3>calculator</h3>
-          <p>
+          <p class="description">
             Someone can enter the numbers they want, and press the big blue
             button and get the result
           </p>
@@ -110,27 +114,24 @@
 
     <footer>
       <section>
-        <h2>Contact</h2>
+        <h2 id="contact">Contact</h2>
         <p>
           If you are interested in chatting or want more information about what
           I’ve been working on, you can view by GetHub repositories below. I’d
           love to hear from you!
         </p>
+
         <address>
           <p>+1(123)867-5309</p>
           <p>Jordan@email.com</p>
         </address>
       </section>
 
-      <section>
-        <p>Jordan</p>
+      <section class="line">
+        <p class="end-name">Jordan</p>
 
         <nav>
-          <ul>
-            <li>Home</li>
-            <li>Portfolio</li>
-            <li>Contact</li>
-          </ul>
+          <a href="#">To the top!</a>
         </nav>
       </section>
     </footer>
