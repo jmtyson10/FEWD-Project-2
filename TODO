@@ -24,25 +24,25 @@ Reading List:
 
 Meets Expectations:
     Created Folder Structure:
-        ☐ Project contains a style sheet inside of a css folder
+        ✔ Project contains a style sheet inside of a css folder @done(22-08-16 20:35)
     Mobile-First Design:
-        ☐ The HTML file includes the viewport meta tag in the head of the document.
-        ☐ A mobile-first approach is utilized using "min-width" properties for media queries.
-        ☐ Media queries are in place to match the screen sizes for:
-            ☐ Tablets at 768px
-            ☐ desktop screens at 1024px
+        ✔ The HTML file includes the viewport meta tag in the head of the document. @done(22-08-16 20:35)
+        ✔ A mobile-first approach is utilized using "min-width" properties for media queries. @done(22-08-16 20:35)
+        ✔ Media queries are in place to match the screen sizes for: @done(22-08-16 20:35)
+            ✔ Tablets at 768px @done(22-08-16 20:35)
+            ✔ desktop screens at 1024px @done(22-08-16 20:35)
     Design and Layout:
-        ☐ Project uses FlexBox for layout
-            ☐ Watch or take a FlexBox tutorial outside of treehouse
-                ☐ Source used:_____________________________________
-                ☐ Add source to OneNote
-        ☐ Matches layout of mockups. General spacing and arrangement of the elements matches the design mockups for:
-            ☐ Mobile
-            ☐ Tablet
-            ☐ Desktop
-        ☐ A Google Font is being used for the text
+        ✔ Project uses FlexBox for layout @done(22-08-16 20:35)
+            ✔ Watch or take a FlexBox tutorial outside of treehouse @done(22-08-16 20:35)
+                ✔ Source used:_____________________________________ @done(22-08-16 20:35)
+                ✔ Add source to OneNote @done(22-08-16 20:35)
+        ✔ Matches layout of mockups. General spacing and arrangement of the elements matches the design mockups for: @done(22-08-16 20:35)
+            ✔ Mobile @done(22-08-16 20:35)
+            ✔ Tablet @done(22-08-16 20:35)
+            ✔ Desktop @done(22-08-16 20:35)
+        ✔ A Google Font is being used for the text @done(22-08-16 20:36)
     Navigation and Sections:
-        ☐ The navigation menu items have working links to the different sections that use ID's to link to relevant anchor tags.
+        ✔ The navigation menu items have working links to the different sections that use ID's to link to relevant anchor tags. @done(22-08-16 20:36)
 Exceeds Expectations:
     Design and Layout:
         ☐ At least TWO of the following additional styling enhancements have been added to the portfolio:
@@ -58,20 +58,10 @@ Exceeds Expectations:
              ☐ A working link to the new section
              ☐ Has been added to the navigation bar using an ID to link to the <a> tag
 Validate Code:
-    ☐ Personal Additions:
-        ☐ 
     ☐ Spell check all files:
         ☐ 
     ☐ HTML Validation
-        ☐ 
     ☐ CSS Validation
 Finalization:
     ☐ Submit for review on Slack
     ☐ Submit for grade
-Apply what you have learned to past projects:
-    ☐ FEWB-Project-1
-        ☐ index.html
-        ☐ hobbies.html
-        ☐ experience.html
-        ☐ styles.css
-        ☐ Try to add Dark Mode

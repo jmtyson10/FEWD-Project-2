@@ -24,6 +24,7 @@
 
     <figure>
       <img
+        class="top-image"
         src="/images/responsive-layout-profile.png"
         alt="A stock picture of me! The developer!"
       />
@@ -38,80 +39,83 @@
 
     <main>
       <h2 id="portfolio">Portfolio</h2>
+      <div class="all-cards">
+        <section class="wrapper-1">
+          <article class="card">
+            <img
+              src="/images/portfolio-1.png"
+              alt="A page display for marketing."
+            />
+            <h3>Marketing Page</h3>
+            <p class="card-p">
+              This project shows the front page of a marketing website meant for
+              a specific business I’m interested in.
+            </p>
+          </article>
 
-      <section class="all-cards">
-        <article class="card">
-          <img
-            src="/images/portfolio-1.png"
-            alt="A page display for marketing."
-          />
-          <h3>Marketing Page</h3>
-          <p>
-            This project shows the front page of a marketing website meant for a
-            specific business I’m interested in.
-          </p>
-        </article>
+          <article class="card">
+            <img
+              src="/images/portfolio-2.png"
+              alt="A page display for searching."
+            />
+            <h3>Search Page</h3>
+            <p class="card-p">
+              This project searches through a specific database to find
+              information that the user is trying to look up.
+            </p>
+          </article>
 
-        <article class="card">
-          <img
-            src="/images/portfolio-2.png"
-            alt="A page display for searching."
-          />
-          <h3>Search Page</h3>
-          <p>
-            This project searches through a specific database to find
-            information that the user is trying to look up.
-          </p>
-        </article>
+          <article class="card">
+            <img
+              src="/images/portfolio-3.png"
+              alt="A page display of traveling time comparison."
+            />
+            <h3>Travel App</h3>
+            <p class="card-p">
+              This project compares travel times based on different
+              transportation methods and tells you the best one.
+            </p>
+          </article>
+        </section>
 
-        <article class="card">
-          <img
-            src="/images/portfolio-3.png"
-            alt="A page display of traveling time comparison."
-          />
-          <h3>Travel App</h3>
-          <p>
-            This project compares travel times based on different transportation
-            methods and tells you the best one.
-          </p>
-        </article>
+        <section class="wrapper-2">
+          <article class="card">
+            <img
+              src="/images/portfolio-4.png"
+              alt="A page display of my favorite spots on a map."
+            />
+            <h3>Map of Forite Spots</h3>
+            <p class="card-p">
+              This project uses mapping APIs to plot points for my favorite
+              spots in the city for a do-it-yourself walking tour.
+            </p>
+          </article>
 
-        <article class="card">
-          <img
-            src="/images/portfolio-4.png"
-            alt="A page display of my favorite spots on a map."
-          />
-          <h3>Map of Forite Spots</h3>
-          <p>
-            This project uses mapping APIs to plot points for my favorite spots
-            in the city for a do-it-yourself walking tour.
-          </p>
-        </article>
+          <article class="card">
+            <img
+              src="/images/portfolio-5.png"
+              alt="A page display of a photo gallery."
+            />
+            <h3>Photo Gallery</h3>
+            <p class="card-p">
+              This project shows pictures from a recent trip to the viewer and
+              allows them to easily navigate through photos.
+            </p>
+          </article>
 
-        <article class="card">
-          <img
-            src="/images/portfolio-5.png"
-            alt="A page display of a photo gallery."
-          />
-          <h3>Photo Gallery</h3>
-          <p>
-            This project shows pictures from a recent trip to the viewer and
-            allows them to easily navigate through photos.
-          </p>
-        </article>
-
-        <article class="card">
-          <img
-            src="/images/portfolio-6.png"
-            alt="A page display of a calculator app."
-          />
-          <h3>Calculator</h3>
-          <p>
-            Someone can enter the numbers they want, and press the big blue
-            button and get the result
-          </p>
-        </article>
-      </section>
+          <article class="card">
+            <img
+              src="/images/portfolio-6.png"
+              alt="A page display of a calculator app."
+            />
+            <h3>Calculator</h3>
+            <p class="card-p">
+              Someone can enter the numbers they want, and press the big blue
+              button and get the result
+            </p>
+          </article>
+        </section>
+      </div>
     </main>
 
     <footer>
@@ -129,10 +133,19 @@
         </div>
       </section>
 
-      <section class="end-section">
+      <section class="end-section-mobile">
         <nav class="end-nav">
           <p>Jordan</p>
           <a href="#">To the top!</a>
+        </nav>
+      </section>
+
+      <section class="end-section-not-mobile">
+        <nav class="end-nav">
+          <p class="nav-name">Jordan</p>
+          <a class="end-nav-button" href="#">Home</a>
+          <a class="end-nav-button" href="#portfolio">Portfolio</a>
+          <a class="end-nav-button" href="#contact">Contact</a>
         </nav>
       </section>
     </footer>
