@@ -57,3 +57,13 @@ img {
   max-width: 300px;
 }
 /* media queries */
+@media (min-width: 768px) {
+  body,
+  main,
+  section {
+    display: flex;
+  }
+  article {
+    flex: 1 50%;
+  }
+}
