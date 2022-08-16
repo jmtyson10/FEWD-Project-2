@@ -45,23 +45,23 @@ Meets Expectations:
         ✔ The navigation menu items have working links to the different sections that use ID's to link to relevant anchor tags. @done(22-08-16 20:36)
 Exceeds Expectations:
     Design and Layout:
-        ☐ At least TWO of the following additional styling enhancements have been added to the portfolio:
-            ☐ A new background color or image for:
-                ☐ Navigation
-                ☐ main sections of the site
-            ☐ The color of at least one piece of text has been changed.
-            ☐ One additional google font has been added, and is being used on the page.
-            ☐ Any additional styling for links has been added.
+        ✔ At least TWO of the following additional styling enhancements have been added to the portfolio: @done(22-08-16 20:52)
+            ✔ A new background color or image for: @done(22-08-16 20:46)
+                ✔ Navigation @done(22-08-16 20:46)
+                ✔ main sections of the site @done(22-08-16 20:46)
+            ✔ The color of at least one piece of text has been changed. @done(22-08-16 20:46)
+            ✔ One additional google font has been added, and is being used on the page. @done(22-08-16 20:52)
+            ✔ Any additional styling for links has been added. @done(22-08-16 20:46)
     Navigation and Sections:
-        ☐ The <nav> tag is being used for the navigation bar.
-        ☐ Additional section has been added to the page such as skills... THINK UP A COUPLE MORE! Need to include
-             ☐ A working link to the new section
-             ☐ Has been added to the navigation bar using an ID to link to the <a> tag
+        ✔ The <nav> tag is being used for the navigation bar. @done(22-08-16 20:52)
+        ✔ Additional section has been added to the page such as skills... THINK UP A COUPLE MORE! Need to include @done(22-08-16 21:41)
+             ✔ A working link to the new section @done(22-08-16 21:41)
+             ✔ Has been added to the navigation bar using an ID to link to the <a> tag @done(22-08-16 21:41)
+        ✔ Add link to GitHub (snag from project 1) @done(22-08-16 21:38)
 Validate Code:
-    ☐ Spell check all files:
-        ☐ 
+    ✔ Spell check all files: @done(22-08-16 21:41)
     ☐ HTML Validation
-    ☐ CSS Validation
+    ✔ CSS Validation @done(22-08-16 21:56)
 Finalization:
     ☐ Submit for review on Slack
     ☐ Submit for grade
