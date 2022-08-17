@@ -49,7 +49,10 @@ header {
   border: 1px solid black;
   background-image: linear-gradient(gray, red);
 }
-
+.main-nav {
+  width: 300px;
+  text-align: center;
+}
 figcaption,
 p,
 h2 {
@@ -97,12 +100,11 @@ h3 {
   background-image: url(/images/github.svg);
 }
 
-/* media queries */
-@media screen and (max-width: 767px) {
-  .end-section-not-mobile {
-    display: none;
-  }
+.end-section-not-mobile {
+  display: none;
 }
+
+/* media queries */
 
 @media screen and (min-width: 768px) {
   figure,
@@ -111,8 +113,14 @@ h3 {
   .wrapper-1,
   .wrapper-2,
   .wrapper-3,
-  .end-nav {
+  .end-nav,
+  .end-section-not-mobile {
     display: flex;
+  }
+
+  .main-nav {
+    flex-direction: row;
+    justify-content: space-between;
   }
 
   .wrapper-3 {
@@ -126,6 +134,7 @@ h3 {
   figcaption {
     margin-top: 1em;
     margin-right: 0.5em;
+    text-align: left;
   }
 
   .card {
@@ -165,11 +174,15 @@ h3 {
     flex-direction: column;
   }
 
+  .main-nav,
   .wrapper-1,
   .wrapper-2 {
     flex-direction: row;
   }
 
+  .main-nav {
+    justify-items: right;
+  }
   figure {
     flex-direction: row-reverse;
   }
@@ -185,6 +198,6 @@ h3 {
   }
 
   h1 {
-    margin-right: auto;
+    margin: 0 auto 0 3.75vw;
   }
 }
