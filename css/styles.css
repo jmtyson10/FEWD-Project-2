@@ -70,6 +70,7 @@ figcaption {
 
 img {
   max-width: 300px;
+  align-self: center;
 }
 
 .end-section-mobile {
