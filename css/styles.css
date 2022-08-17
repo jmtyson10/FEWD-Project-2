@@ -90,15 +90,19 @@ h3 {
   display: inline-block;
   text-indent: -9999px;
   margin-left: 5px;
+  color: black;
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
-  opacity: 0.4;
   transition: all 0.5s;
 }
 
 .github {
   background-image: url(/images/github.svg);
+}
+
+.social:hover {
+  opacity: 0.25;
 }
 
 .end-section-not-mobile {
